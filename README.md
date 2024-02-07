@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Javonne</h1>
-<h3 align="center">A language learner...</h3>
+<h1 align="center">Hi 👋, I'm Javonne!</h1>
+
 
 - 🌱 BSc Comp Sci graduate!
 - 🔭 I’m currently studying an MSc in Applied Computational Science and Engineering at Imperial College London
 - 💬 I really like deep learning :)
 - 📫 My email is: javonne.porter@gmail.com
-- 👨‍💻 When I'm not learning C++ I'm probably learning Japanese
+- 👨‍💻 When I'm not learning C++ I'm probably learning Japanese...
 
 <p align="left">
 </p>
