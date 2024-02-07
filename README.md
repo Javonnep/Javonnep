@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javonne</h1>
-<h3 align="center">A Student</h3>
+<h3 align="center">A language learner...</h3>
 
 - 🌱 BSc Comp Sci graduate!
 - 🔭 I’m currently studying an MSc in Applied Computational Science and Engineering at Imperial College London
