@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi!
+- I have a BSc in Computer Science from City University of London
+- Im currently doing a Masters in Applied Computational Science and Engineering at Imperial College London
+- My main area of interest is Deep Learning
 
 <!--
 **Javonnep/Javonnep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
