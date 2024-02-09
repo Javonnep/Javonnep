@@ -1,5 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jjj&label=Profile%20views&color=0e75b6&style=flat" alt="javonnep" /> </p>
+
 <h1 align="center">Hi!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjj&label=Profile%20views&color=0e75b6&style=flat" alt="javonnep" /> </p>
 
 - 👨‍💻 BSc Comp Sci graduate!
 - 👁️ I’m currently studying an MSc in Applied Computational Science and Engineering at Imperial College London
