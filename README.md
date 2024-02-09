@@ -1,11 +1,13 @@
 <h1 align="center">Hi!</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjj&label=Profile%20views&color=0e75b6&style=flat" alt="javonnep" /> </p>
 
 - 👨‍💻 BSc Comp Sci graduate!
 - 👁️ I’m currently studying an MSc in Applied Computational Science and Engineering at Imperial College London
 - 🐻 I really like deep learning :)
 - 📫 My email is: javonne.porter@gmail.com
 - 🦉 When I'm not learning C++ I'm probably learning Japanese...
+
+
 
 <p align="left">
 </p>
