@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi!</h1>
 
-- 👨‍💻 BSc Comp Sci graduate!
-- 👁️ I’m currently studying an MSc in Applied Computational Science and Engineering at Imperial College London
+- 👨‍💻 City University of London BSc Comp Sci graduate!
+- 👁️ Just finished my MSc in Applied Computational Science and Engineering at Imperial College London
 - 🐻 I really like deep learning :)
 - 📫 My email is: javonne.porter@gmail.com
 - 🦉 When I'm not learning C++ I'm probably learning Japanese...
