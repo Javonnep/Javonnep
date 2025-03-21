@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi!</h1>
 
+- 💻 2+ years of relevant experience!
 - 👨‍💻 City University of London BSc Comp Sci graduate!
 - 👁️ MSc in Applied Computational Science and Engineering at Imperial College London
 - 🐻 I really like machine learning :)
